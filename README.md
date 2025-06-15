@@ -7,7 +7,7 @@ This Power BI project includes:
 - Ride booking success/failure analysis
 - Trip volume and revenue trends over time
 - Popular pickup and drop-off locations
-- Peak hours and weekday vs weekend trends
+- Revenue generation analysis
 - Customer segmentation and behavior analysis
 
 The dashboard enables stakeholders to:
